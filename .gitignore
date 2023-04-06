@@ -24,6 +24,7 @@ cfg/
 temp/
 build/darknet/*
 build_*/
+build-release/*
 debug/
 ninja/
 ninja.zip
